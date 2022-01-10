@@ -1,2 +1,3 @@
-# recipes
-The Recipes Odin Project
+# Recipes
+
+The Recipes Odin Project under the HTML Foundations
