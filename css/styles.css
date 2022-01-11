@@ -3,7 +3,6 @@
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
     color: #2b3f67;
     border-bottom: 1px solid #2a355f;
 }
@@ -20,4 +19,18 @@ ul > li {
 ul > li > a {
     text-decoration: none;
     color: #2b3f67;
+}
+
+.ingredients, .steps {
+    color: #ffffff;
+    background-color: #2a355f;
+    padding: 10px 8px;
+}
+
+.ingredient-list, .step-list {
+    background-color: rgb(233, 242, 248);
+}
+
+.ingredient-list li, .step-list li {
+    padding: 5px 0px;
 }
